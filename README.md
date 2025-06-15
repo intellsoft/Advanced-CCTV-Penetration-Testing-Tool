@@ -1,8 +1,3 @@
-در ادامه، فایل `README.md` برای نرم‌افزار شما نوشته شده است با رعایت تمام نکات خواسته‌شده:
-
----
-
-````markdown
 # ابزار تست نفوذ پیشرفته دوربین‌های مداربسته (Kill-CCTV)
 
 ⚠️ **هشدار جدی: لطفاً قبل از استفاده، این متن را کامل بخوانید!** ⚠️
@@ -76,8 +71,6 @@ sudo python kill-cctv-v2.py
 python kill-cctv-v2.py
 ```
 
----
-
 # Advanced CCTV Penetration Testing Tool
 
 ⚠️ **WARNING: READ BEFORE USE!** ⚠️
@@ -150,5 +143,3 @@ python kill-cctv-v2.py
 
 ---
 
-آیا مایلید این README را با لوگو، اسکرین‌شات یا جدول ویژگی‌ها هم تزئین کنیم؟
-```
