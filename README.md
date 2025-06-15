@@ -53,12 +53,6 @@
   - `scapy`
   - `requests`
 
-برای نصب وابستگی‌ها:
-
-```bash
-pip install -r requirements.txt
-````
-
 ## ▶️ نحوه اجرا
 
 ```bash
@@ -115,12 +109,6 @@ This tool is designed for **penetration testing of CCTV networks**, with feature
 
   * `scapy`
   * `requests`
-
-Install with:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## ▶️ Usage
 
