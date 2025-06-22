@@ -65,6 +65,12 @@ sudo python kill-cctv-v2.py
 python kill-cctv-v2.py
 ```
 
+
+## برنامه نویس: محمدعلی عباسپور
+[آسیب‌پذیری‌های دوربین‌های مداربسته در شبکه‌های داخلی](https://intellsoft.ir/cctv-camera-vulnerabilities-in-internal-networks/)
+
+---
+
 # Advanced CCTV Penetration Testing Tool
 
 ⚠️ **WARNING: READ BEFORE USE!** ⚠️
